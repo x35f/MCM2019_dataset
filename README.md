@@ -2,7 +2,7 @@ mcm2019 certifications
 
 The certification are stored as instances of Cert_text defined in cert.py transformed from jpg format of certifications by tesseract-ocr.
 
-The participants names has been anonymized, only last names are stored.
+The participants names has been anonymized, only last names are stored (some might be first names, just a formatting issue).
 
 To load the dataset, run command "pickle.load('anony.s','rb')"
 
