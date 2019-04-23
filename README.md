@@ -6,13 +6,13 @@ The participants names has been anonymized, only last names are stored.
 
 To load the dataset, run command "pickle.load('anony.s','rb')"
 
-A simple lookup script is provided as proc.py, the arguments are
-	--name  str	//participant name
-	--school str	//school name
-	--award  str	//award type 
-	--control	 int   //control number
-	--print-cert action='store_true'//print each cert that satisfies the request
-	--file str //dataset name,default='anony.s'
+A simple lookup script is provided as proc.py, the arguments are  
+	--name  str	//participant name  
+	--school str	//school name  
+	--award  str	//award type   
+	--control	 int   //control number  
+	--print-cert action='store_true'//print each cert that satisfies the request   
+	--file str //dataset name,default='anony.s'  
  
 All arguments should be in lower case.
 
